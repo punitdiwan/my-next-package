@@ -1,0 +1,23 @@
+{
+  "name": "my-next-package",
+  "version": "1.0.0",
+  "description": "A reusable package for Next.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punitdiwan/my-next-package.git"
+  },
+  "keywords": [
+    "nextjs",
+    "reusable",
+    "package"
+  ],
+  "author": "Punit Diwan",
+  "license": "MIT",
+  "peerDependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
